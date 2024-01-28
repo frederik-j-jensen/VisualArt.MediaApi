@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/VisualArt.MediaApi.props" />
+</Project>
